@@ -10,7 +10,7 @@ categories: techno
 tags: [
     Rust,
     Program Design,
-    Prigramming Language
+    Programming Language
 ]
 hidden: false
 comments: false
