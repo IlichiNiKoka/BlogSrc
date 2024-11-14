@@ -1,7 +1,7 @@
 ---
 title: 万事开头难，但至少我们开了个头。
 description: 
-date: 2024-11-14T18:54:11+08:00
+date: 2024-11-14 T18:54:11 +08:00
 image: 
 math: 
 slug: first-post
