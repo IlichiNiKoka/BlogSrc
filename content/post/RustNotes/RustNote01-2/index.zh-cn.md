@@ -14,7 +14,7 @@ tags: [
 ]
 hidden: false
 comments: true
-draft: true
+draft: false
 ---
 # Rust Note 01-02: Installation
 >[安装网址](https://www.rust-lang.org/tools/install)
