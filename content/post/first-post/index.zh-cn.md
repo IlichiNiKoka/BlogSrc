@@ -4,7 +4,7 @@ description:
 date: 2024-11-14T18:54:11+08:00
 image: 
 math: 
-slug:first-post
+slug: first-post
 license: 
 hidden: false
 comments: true
